@@ -1,1 +1,16 @@
+/*
+Zach Clevenger
+INFO-C451
+Spring
+ReadMe File
 
+Step 1) Download appropriate local hosting program. Utlization of WAMP Server is recommended. 
+Step 2) Run PPMyAdmin and created database home_inventory. Code snippet is found under "home_inventory.sql"
+Step 3) Create folder within you local host (WAMP) and name it inventroy tracker. 
+Step 4) Add code to folder by copy/paste. 
+Step 5) Run WAMP server, there should be a green W with all 3 systems running.
+Step 6) OPen inventory_tracker from local host and run "inv_main" in web browser.
+Step 7) Ensure that mainpage for program has successfully loaded.
+Step 8) Add new items to inventory by clicking button on left statiting "add item"
+Step 9) If successful ne items will be displayed on your vie screen.
+*/
